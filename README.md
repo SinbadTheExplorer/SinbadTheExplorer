@@ -1,4 +1,4 @@
-## Thanh Nguyen
+## Sinbad
 
 Business student who builds things to understand them.
 
@@ -6,13 +6,13 @@ Business student who builds things to understand them.
 
 A causal map of the financial system: 39 nodes, calibrated link elasticities, and a daily data pipeline pulling from FRED and Yahoo Finance. Relationships are fitted against real data and labelled by evidence tier, so the map says how much it actually knows.
 
-→ https://nguyenminhthanh0403-hub.github.io/claudekit/bullion-live-map/
+→ https://sinbadtheexplorer.github.io/claudekit/bullion-live-map/
 
 ### Graywind — autonomous paper-trading system
 
 A rules-based equity trading bot that runs unattended on a live market-hours cycle via GitHub Actions, with tiered capital allocation, a macro risk gate, and a Deflated-Sharpe-Ratio-gated backtest layer. Currently in a live paper-trading burn-in.
 
-→ https://nguyenminhthanh0403-hub.github.io/graywind/
+→ https://sinbadtheexplorer.github.io/graywind/
 
 ### Reign — hand-gesture mouse control for macOS
 
